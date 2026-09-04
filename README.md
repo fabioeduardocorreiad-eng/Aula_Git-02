@@ -82,3 +82,32 @@ git add .
 git commit -m "descrição"
 git push origin main
 ```
+
+## Citações
+
+```
+> Uma boa documentação explica o objestivo, o uso a as limatações de um projeto.
+```
+> Uma boa documentação explica o objestivo, o uso a as limatações de um projeto.
+
+## Tabelas
+```
+| Tecnologia | Finalidade | 
+| --- | --- |
+```
+
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle de versões | 
+| GitHub | Hopsedagem e colaboração | 
+| Markdown | Documentação |
+
+| Alinhado à esquerda | Alinhado ao centro | Alinhada à direita | 
+| :--- | :---: | ---: |
+| texto | texto | texto |
+
+## Imagens
+
+![Spider-Man](./OIP.webp)
+![Timão](https://www.meutimao.com.br/_upload/wallpapers/corinthians-escudo_3d-_por_marcos_albuquerque_e8_1280x800.jpg)
+![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
